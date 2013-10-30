@@ -1,3 +1,6 @@
+#  Hello Kevin
+
+
 library(fields)
 
 nstns<-2
